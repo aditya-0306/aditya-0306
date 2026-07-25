@@ -63,7 +63,20 @@ I'm currently sharpening my problem-solving ability through consistent **DSA pra
 
 ### 🚀 Featured Projects
 
-<!-- 🔧 Add your real projects here as you build them — one <details> block per project, following the format below.
+### 🔗 URL Shortener API
+A production-ready URL Shortener backend built with FastAPI and PostgreSQL.
+
+**Tech Stack:** FastAPI • PostgreSQL • Docker • REST API
+
+**Features:**
+- 🔐 RESTful API
+- 🔗 Short URL generation
+- 🗄️ PostgreSQL database
+- 🐳 Docker support
+- 🧪 Automated tests
+
+**Repository:**
+https://github.com/aditya-0306/-url-shortener-- 🔧 Add your real projects here as you build them — one <details> block per project, following the format below.
 <details>
 <summary><b>🔹 Project Name</b></summary>
 <br>
@@ -82,7 +95,6 @@ Short professional description of what the project does and the problem it solve
 </details>
 -->
 
-🔨 Actively building backend projects — this section will be updated soon with real, deployed work.
 
 ---
 
