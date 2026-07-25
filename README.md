@@ -76,7 +76,7 @@ A production-ready URL Shortener backend built with FastAPI and PostgreSQL.
 - 🧪 Automated tests
 
 **Repository:**
-https://github.com/aditya-0306/-url-shortener-- 🔧  — one <details> block per project, following the format below.
+Repository: https://github.com/aditya-0306/-url-shortener 🔧  — one <details> block per project, following the format below.
 <details>
 <summary><b>🔹 Project Name</b></summary>
 <br>
