@@ -147,9 +147,15 @@ Short professional description of what the project does and the problem it solve
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/aditya-0306/aditya-0306/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%">
-</div>
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/aditya-0306/aditya-0306/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake Animation" width="100%">
+</p>
+
+---
 
 ### 🎯 Current Focus
 
