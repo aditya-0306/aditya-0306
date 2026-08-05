@@ -150,14 +150,10 @@ Short professional description of what the project does and the problem it solve
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aditya-0306/aditya-0306/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aditya-0306/aditya-0306/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/aditya-0306/aditya-0306/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-</div>
 
----
+![Snake animation](https://raw.githubusercontent.com/aditya-0306/aditya-0306/output/github-contribution-grid-snake.svg)
+
+</div>
 
 ### 🎯 Current Focus
 
