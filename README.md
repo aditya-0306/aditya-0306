@@ -95,13 +95,7 @@ A backend focused on real engineering concerns beyond basic CRUD — a sliding-w
 | Repository | [View Repo](https://github.com/aditya-0306/url-shortener) |
 | Live Demo | [API Docs](https://url-shortener-5e52.onrender.com/docs) |
 
-
-
-
-
-
-
-
+</details>
 
 ---
 
@@ -154,8 +148,6 @@ A backend focused on real engineering concerns beyond basic CRUD — a sliding-w
 
 ---
 
----
-
 ### 🐍 Contribution Snake
 
 <p align="center">
@@ -164,9 +156,7 @@ A backend focused on real engineering concerns beyond basic CRUD — a sliding-w
 
 ---
 
-### 🎯 Current Focus
-
-```yaml
+### 🎯 Current Focus```yaml
 learning:
   - Advanced Data Structures & Algorithms
   - Backend System Design Fundamentals
@@ -180,9 +170,7 @@ exploring:
 open_to:
   - Backend Engineering Internships
   - SDE Roles (Product & Service-Based Companies)
-```
-
----
+⁠```⁠
 
 ### 📬 Connect
 
