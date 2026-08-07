@@ -63,42 +63,44 @@ I'm currently sharpening my problem-solving ability through consistent **DSA pra
 
 ### 🚀 Featured Projects
 
-### 🔗 URL Shortener API
-A production-ready URL Shortener backend built with FastAPI and PostgreSQL.
-
-**Tech Stack:** FastAPI • PostgreSQL • Docker • REST API
-
-**Features:**
-- 🔐 RESTful API
-- 🔗 Short URL generation
-- 🗄️ PostgreSQL database
-- 🐳 Docker support
-- 🧪 Automated tests
-
-
-**Repository:**
-- https://github.com/aditya-0306/-url-shortener
-
 <details>
-<summary><b>Future Projects</b></summary>
+<summary><b>🔹 Movie Ticket Booking Backend</b></summary>
+<br>
 
-Coming soon...
-
-</details>
-
-Short professional description of what the project does and the problem it solves.
+A production-style movie ticket booking API built around a real backend interview problem: guaranteeing two users can never book the same seat, even under simultaneous concurrent requests.
 
 | Aspect | Details |
 |---|---|
-| Stack | e.g. Python, PostgreSQL, FastAPI |
-| Scale | e.g. Handles X requests/records |
-| Performance | e.g. Query response optimized to Xms |
-| Security | e.g. JWT-based auth, input validation |
-| Impact | e.g. Reduced processing time by X% |
-| Repository | [View Repo](https://github.com/aditya-0306/your-repo) |
+| Stack | FastAPI, PostgreSQL, SQLAlchemy 2.0, Redis, Alembic, JWT |
+| Concurrency Safety | Database-level partial unique index — proven with a real concurrent load test (15 simultaneous requests, exactly 1 succeeds) |
+| Security | JWT access + rotating refresh tokens, role-based admin/customer access |
+| Impact | Full booking lifecycle: seat reservation, mock payment, cancellation, Redis caching, rate limiting |
+| Repository | [View Repo](https://github.com/aditya-0306/movie-booking-system) |
+| Live Demo | [API Docs](https://movie-booking-system-53u1.onrender.com/docs) |
 
 </details>
--->
+
+<details>
+<summary><b>🔹 URL Shortener with Analytics</b></summary>
+<br>
+
+A backend focused on real engineering concerns beyond basic CRUD — a sliding-window rate limiter, cache-aside redirects, and click analytics.
+
+| Aspect | Details |
+|---|---|
+| Stack | FastAPI, PostgreSQL, Redis, JWT |
+| Scale | Redis-backed sliding-window rate limiting (avoids the request-burst problem of naive fixed-window counters) |
+| Performance | Cache-aside pattern for redirects — cached lookups avoid hammering the database on repeat clicks |
+| Impact | Load-tested: 20 concurrent requests, exactly 10 succeeded and 10 correctly rate-limited |
+| Repository | [View Repo](https://github.com/aditya-0306/url-shortener) |
+| Live Demo | [API Docs](https://url-shortener-5e52.onrender.com/docs) |
+
+
+
+
+
+
+
 
 
 ---
