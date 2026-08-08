@@ -76,7 +76,7 @@ A production-style movie ticket booking API built around a real backend intervie
 | Security | JWT access + rotating refresh tokens, role-based admin/customer access |
 | Impact | Full booking lifecycle: seat reservation, mock payment, cancellation, Redis caching, rate limiting |
 | Repository | [View Repo](https://github.com/aditya-0306/movie-booking-system) |
-| Live Demo | [API Docs](https://movie-booking-system-53u1.onrender.com/docs) |
+| Live Demo | [API Docs](https://movie-booking-system-53ul.onrender.com/docs) |
 
 </details>
 
