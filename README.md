@@ -62,6 +62,23 @@ I'm currently sharpening my problem-solving ability through consistent **DSA pra
 ---
 
 ### 🚀 Featured Projects
+<details>
+<summary><b>🔹 Microservices System – FastAPI + NATS JetStream</b></summary>
+<br>
+
+A production-oriented microservices system designed around asynchronous, event-driven communication between independent services without REST or WebSockets.
+
+| Aspect | Details |
+|---|---|
+| Stack | FastAPI, NATS JetStream, JWT, SQLite, Docker Compose |
+| Architecture | API Gateway + User Service + Notification Service with asynchronous event-driven communication |
+| Messaging | NATS JetStream with durable consumers, explicit acknowledgements, retries and dead-letter queue handling |
+| Security | JWT authentication, HMAC-SHA256 signed service messages, request validation and rate limiting |
+| Reliability | Retry/backoff handling, replay protection, message verification and service health checks |
+| Impact | User signup publishes a `user.created` event, which is asynchronously consumed by the Notification Service to create a welcome notification |
+| Repository | [View Repo](https://github.com/aditya-0306/microservices-assignment) |
+
+</details>
 
 <details>
 <summary><b>🔹 Movie Ticket Booking Backend</b></summary>
